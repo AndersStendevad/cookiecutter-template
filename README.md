@@ -53,3 +53,5 @@ suggestions for improvements, please open an issue on GitHub or submit a pull
 request.
 
 ## License
+
+This project is licensed under the terms of the MIT license.
